@@ -1,0 +1,2 @@
+# Narayan_Github
+I am Dr. Narayan Kayet, I am currently working as a Research Associate (RA) in Indian Space Research Organization (ISRO) sponsored a project (Forest health monitoring using hyperspectral data for effective geo-environmental planning and management of iron ore mining belt, Saranda forest, Jharkhand) under the Department of Mining Engineering, Indian Institute of Technology, Kharagpur.
